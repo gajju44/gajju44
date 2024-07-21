@@ -1,8 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gajendra</h1>
 🔭 I’m currently Deepening my knowledge in frameworks such as React and backend development with Node.js and Express.<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 Feel free to reach out anytime!<br>🌱 I’m currently working on a Youtube clone website named "Gtube"<br>📫You can contact me at: gajendra44.connect@gmail.com
 
 
-## 🌐 Socials:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gajendra-naphade) 
 
 # Languages and Tools:
