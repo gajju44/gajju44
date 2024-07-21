@@ -24,4 +24,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gajju44&icon=1&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2>Activity Graph</h2>
+
+![Gajju's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajju's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
