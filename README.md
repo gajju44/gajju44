@@ -11,12 +11,15 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![C++](https://img.shields.io/badge/++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 # Current Stats:
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gajju44&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajju44&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="width: 45%;">
-  </div>
-</p>
+<div>
+
+<a href="https://github.com/KrshnK">
+      <img alt="Krishna's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=gajju44&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/KrshnK">
+<img src="https://github-readme-stats.vercel.app/api?username=gajju44&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajju44&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Readme Stats">
