@@ -12,11 +12,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 ---
-# ✍️ Random Dev Quote
+#  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajju44&theme=dark&hide_border=false)
 
@@ -29,7 +29,7 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gajju44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
