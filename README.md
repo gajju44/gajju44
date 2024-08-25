@@ -20,7 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajju44&theme=dark&hide_border=false)
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -33,16 +32,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gajju44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=gajju44&icon=1&color=5)](https://visitcount.itsvg.in)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Activity Graph card -->
-</br>
-</br>
+
 <h2>Activity Graph</h2>
 
 ![Gajju's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajju's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<br><br><br>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
+[![](https://visitcount.itsvg.in/api?id=gajju44&icon=1&color=5)](https://visitcount.itsvg.in)
 
