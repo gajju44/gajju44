@@ -33,7 +33,7 @@
 
 <h2>Activity Graph</h2>
 
-![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajju's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajendra's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
