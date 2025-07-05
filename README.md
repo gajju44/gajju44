@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gajendra</h1>
-🔭 I’m currently Deepening my knowledge in web3<br>>🤝 Feel free to reach out anytime!<br>🌱 I’m currently working on Freelancing projects <br>📫You can contact me at: gajendra44.connect@gmail.com
+🔭 I’m currently Deepening my knowledge in web3<br>🤝 Feel free to reach out anytime!<br>🌱 I’m currently working on Freelancing projects <br>📫You can contact me at: gajendra44.connect@gmail.com
 
 
 ## Connect with me:
