@@ -39,6 +39,5 @@
 
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 [![](https://visitcount.itsvg.in/api?id=gajju44&icon=1&color=5)](https://visitcount.itsvg.in)
 
