@@ -5,6 +5,9 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gajendra-naphade) 
 
+## Holopin Badges:
+[![An image of @gajju44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gajju44)](https://holopin.io/@gajju44)
+
 # Languages and Tools:
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
