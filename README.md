@@ -7,8 +7,7 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gajendra-naphade) 
 
-## Holopin Badges:
-[![An image of @gajju44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gajju44)](https://holopin.io/@gajju44)
+
 
 # Languages and Tools:
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -26,18 +25,16 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gajju44&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajju44&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gajju44&theme=dark&hide_border=false)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p style="margin-left: 40%;">
+<!-- <p style="margin-left: 40%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajju44&bg_color=0D1017&text_color=E8EDF3D5&title_color=E8EDF3&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Readme Stats">
-</p>
+</p> -->
 
 
 
@@ -46,6 +43,9 @@
 ![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajendra's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br>
+## Holopin Badges:
+[![An image of @gajju44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gajju44)](https://holopin.io/@gajju44)
 
-[![](https://visitcount.itsvg.in/api?id=gajju44&icon=1&color=5)](https://visitcount.itsvg.in)
+
+
 
