@@ -40,6 +40,8 @@
 ![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajendra's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<br><br>
 ## Holopin Badges:
 [![An image of @gajju44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gajju44)](https://holopin.io/@gajju44)
 
