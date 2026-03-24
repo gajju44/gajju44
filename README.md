@@ -45,6 +45,6 @@
 ## Holopin Badges:
 [![An image of @gajju44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gajju44)](https://holopin.io/@gajju44)
 
-
+![](https://komarev.com/ghpvc/?username=gajju44)
 
 
