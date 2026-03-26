@@ -26,7 +26,8 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=gajju44&theme=dark&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api?username=gajju44&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+<img src="https://streak-stats.demolab.com?user=gajju44&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </br>
 
 <!-- <p style="margin-left: 40%;">
