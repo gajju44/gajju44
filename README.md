@@ -30,10 +30,6 @@
 <img src="https://streak-stats.demolab.com?user=gajju44&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </br>
 
-<!-- <p style="margin-left: 40%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajju44&bg_color=0D1017&text_color=E8EDF3D5&title_color=E8EDF3&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Readme Stats">
-</p> -->
-
 
 
 <h2>Activity Graph</h2>
