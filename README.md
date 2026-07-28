@@ -30,9 +30,9 @@
 </br>-->
 
 
-<h2>Activity Graph</h2>
+<!-- <h2>Activity Graph</h2>
 
-![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajendra's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gajendra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gajju44&custom_title=Gajendra's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 
 <br><br>
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
